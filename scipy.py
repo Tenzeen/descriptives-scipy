@@ -6,6 +6,7 @@ import scipy
 from scipy import stats
 import os
 import urllib.request
+import statsmodels as sm
 from statsmodels.formula.api import ols
 import seaborn as se
 import matplotlib.pyplot as plt
